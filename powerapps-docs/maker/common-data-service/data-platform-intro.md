@@ -17,14 +17,14 @@ search.app:
 ---
 
 # <a name="what-is-common-data-service"></a>¿Qué es Common Data Service?
-Common Data Service le permite almacenar y administrar de forma segura los datos que usan las aplicaciones empresariales. Los datos de Common Data Service se almacenan en un conjunto de entidades. Una *entidad* es un conjunto de registros que se usa para almacenar datos, similar a cómo una tabla almacena los datos en una base de datos. Common Data Service incluye un conjunto base de entidades estándar que cubren escenarios típicos, pero también puede crear entidades personalizadas específicas para su organización y rellenarlas con datos usando Power Query. Los creadores de aplicaciones pueden usar PowerApps para crear aplicaciones completas usando estos datos.
+Common Data Service, le permite almacenar y administrar de forma segura los datos que usan las aplicaciones empresariales. Los datos de Common Data Service se almacenan en un conjunto de entidades. Una *entidad* es un conjunto de registros que se usa para almacenar datos, similar a cómo una tabla almacena los datos en una base de datos. Common Data Service incluye un conjunto base de entidades estándar que cubren escenarios típicos, pero también puede crear entidades personalizadas específicas para su organización y rellenarlas con datos usando Power Query. Los creadores de aplicaciones pueden usar PowerApps para crear aplicaciones completas usando estos datos.
 
 ![Captura de pantalla que muestra información general de la plataforma de aplicaciones empresariales.](./media/data-platform-cds-intro/platform.png "Información general de la plataforma")
 
 Para obtener información sobre cómo comprar un plan para usar Common Data Service, consulte [Información de precios](../../administrator/pricing-billing-skus.md).
 
 ## <a name="why-use-common-data-service"></a>¿Por qué usar Common Data Service?
-Las entidades estándar y personalizadas de Common Data Service proporcionan una opción de almacenamiento de datos segura y basada en la nube. Las entidades le permiten crear una definición orientada al negocio de los datos de su organización para su uso en aplicaciones. Si no está seguro de si las entidades son la mejor opción para usted, considere estas ventajas:
+Las entidades estándar y personalizadas de Common Data Service, proporcionan una opción de almacenamiento de datos segura y basada en la nube. Las entidades le permiten crear una definición orientada al negocio de los datos de su organización para su uso en aplicaciones. Si no está seguro de si las entidades son la mejor opción para usted, considere estas ventajas:
 
 * **Fácil de administrar** &ndash; Los metadatos y los datos se almacenan en la nube. No tiene que preocuparse de los detalles de cómo se almacenan.
 * **Fácil de proteger** &ndash; Los datos se almacenan de forma segura de forma que los usuarios solo podrán verlos si les concede acceso a ellos. La seguridad basada en roles le permite controlar el acceso a las entidades para diferentes usuarios en la organización.
